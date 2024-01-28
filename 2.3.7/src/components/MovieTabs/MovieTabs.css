@@ -1,0 +1,15 @@
+.movie-tabs {
+    box-sizing: border-box;
+    height: 100vh;
+    background-color: #fff;
+    width: 1010px;
+    overflow: auto;
+    margin: 0 auto;
+    padding: 36px;
+    padding-top: 0;
+
+}
+
+.movie-tabs::-webkit-scrollbar {
+  width: 0;
+}
