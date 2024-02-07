@@ -1,8 +1,0 @@
-.movie__list {
-  display: flex;
-  flex-direction: column;
-}
-
-/* .movie__list::-webkit-scrollbar {
-  width: 0;
-} */
